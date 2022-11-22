@@ -1,3 +1,4 @@
 hello world
 welcome world
 be happy
+git is nice tool
